@@ -31,7 +31,7 @@ Este projeto simula uma base de dados de Vendas de Componentes de computador com
 
 ## 🚀 Passo-a-passo realizado
 
-1. Separar os dados fato x dimensão a partir de uma planilha unificada, gerando novos arquivos .csv.
+1.Separar os dados fato x dimensão a partir de uma planilha unificada, gerando novos arquivos .csv.
 
 2.Transformar os dados e organiza-los em tabelas especificas: Clientes, forncedores e funcionários (vendedores)
 
