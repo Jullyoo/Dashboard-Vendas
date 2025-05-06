@@ -27,7 +27,6 @@ Este projeto simula uma base de dados de Vendas de Componentes de computador com
 - `Python` (Pandas para analise de dados)
 - `Power Query` (ETL e tratamento de dados)
 - `Power BI` (Visualizações e análises)
-- `pandas` e `faker` (para geração e manipulação de dados)
 
 ## 🚀 Passo-a-passo realizado
 
